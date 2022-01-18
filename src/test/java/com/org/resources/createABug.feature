@@ -1,4 +1,4 @@
-
+@tag
 Feature: to create a issues in Jira project
 
   Background:
